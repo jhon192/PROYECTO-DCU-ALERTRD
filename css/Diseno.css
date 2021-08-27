@@ -1,0 +1,55 @@
+.foto{
+    margin-left: 550px;
+    margin-right:  550px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.hola{
+    background-color: #c52f25;
+    color: rgb(255, 254, 254);
+    padding: 10px 20px;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+
+}
+nav{
+    margin-left: 400px;
+    margin-right:  400px;
+}
+
+.boton{
+    
+}
+body{
+    background: url(../img/Fondo.jpg);
+    background-size: 100%;
+    -webkit-background-size: cover ;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+h1{
+    color: #c52f25;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 440px;
+    font-family:'Courier New', Courier, monospace;
+    margin-right: 435px;
+} 
+
+#btn-menu{
+    display: none;
+}
+
+header label{
+    display: block;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid #ffffff ;
+}
+
+header label:hover{
+   cursor: pointer;
+   background: rgba(0,0,0,0'.3);
+}
