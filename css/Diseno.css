@@ -23,6 +23,25 @@ nav{
     margin-left: 400px;
     margin-right:  400px;
 }
+div#general{
+    margin: auto;
+    margin-top: 50px;
+    width: 1200px;
+    height: 900px;
+    
+}
+div#info{
+  float: right;
+  width: 200px;
+  height: 500px;
+  background-color: #c52f25;
+  
+
+}
+
+#map{
+    margin: 150px;
+}
 
 body{
     background: url(../img/Fondo.jpg);
