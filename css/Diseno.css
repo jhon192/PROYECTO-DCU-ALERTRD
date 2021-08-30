@@ -23,6 +23,7 @@ nav{
     margin-left: 400px;
     margin-right:  400px;
 }
+<<<<<<< HEAD
 div#general{
     margin: auto;
     margin-top: 50px;
@@ -42,6 +43,8 @@ div#info{
 #map{
     margin: 150px;
 }
+=======
+>>>>>>> 520f5607d3d3c18b4017dc7e53fda8a37d422caf
 
 body{
     background: url(../img/Fondo.jpg);
@@ -84,6 +87,7 @@ h1{
     margin-left: 30px;
     color: white;
     font-family:'Courier New', Courier, monospace;
+<<<<<<< HEAD
 }
 .etiqueta{
     display: block;
@@ -91,6 +95,8 @@ h1{
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     position: relative;
+=======
+>>>>>>> 520f5607d3d3c18b4017dc7e53fda8a37d422caf
 }
 
 header label{
@@ -104,5 +110,9 @@ header label{
 header label:hover{
    cursor: pointer;
    background: rgba(0,0,0,0.3)
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> 520f5607d3d3c18b4017dc7e53fda8a37d422caf

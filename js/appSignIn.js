@@ -20,7 +20,11 @@ signinBtn.addEventListener('submit', (e) => {
         document.getElementById("message").appendChild(dangerdiv);
 
         setTimeout(() => {
+<<<<<<< HEAD
             window.location.replace('/html/Login.html')
+=======
+            window.location.replace('LogIn.html')
+>>>>>>> 520f5607d3d3c18b4017dc7e53fda8a37d422caf
         }, 2000);
     }).catch((err) => {
         //mensaje de error
